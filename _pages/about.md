@@ -10,6 +10,8 @@ redirect_from:
 
 My name is Fanjie Kong, a fourth-year Ph.D. candidate in the Electrical and Computer Engineering (ECE) at Duke University, working with [Prof. Ricardo Henao](https://rhenaog.github.io/). My current research mainly focuses on open-vocabulary object detection, efficient vision models and Fairness in AI. For additional details regarding my academic and professional experiences, please refer to my [CV](../files/Fanjie Kong-CV-2023Fall.pdf).
 
+<span style="color:red">**As I plan to graduate on May 2024, I am actively seeking opportunities in industry roles such as scientist positions, as well as postdoctoral appointments.**</span>.
+
 ## Recent Papers
 1. Mitigating Test-Time Bias for Fair Image Retrieval [[PDF]](https://arxiv.org/pdf/2305.19329.pdf)  <br /> **Fanjie Kong**, Shuai Yuan, Weituo Hao, Ricardo Henao  <br /> arXiv preprint arXiv:2305.19329 (arXiv 2023)
 2. Neural Insights for Digital Marketing Content Design [[PDF]](https://arxiv.org/pdf/2302.01416.pdf)  <br /> **Fanjie Kong**, Yuan Li, Houssam Nassif, Tanner Fiez, Ricardo Henao, Shreya Chakrabarti <br /> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
