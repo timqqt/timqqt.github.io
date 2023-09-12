@@ -19,15 +19,26 @@ My name is Fanjie Kong, a fourth-year Ph.D. candidate in the Electrical and Comp
  <br /> IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
 5. The Synthinel-1 dataset: A collection of high resolution synthetic overhead imagery for building segmentation [[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Kong_The_Synthinel-1_dataset_a_collection_of_high_resolution_synthetic_overhead_WACV_2020_paper.pdf)  <br /> **Fanjie Kong**, Bohao Huang, Kyle Bradbury, Jordan Malof
  <br /> IEEE/CVF winter conference on applications of computer vision (WACV), 2020.
+
 ## Industrial Experience
 
 - Applied Scientist Intern at Amazon AWS AI Lab
 - Applied Scientist Intern at Amazon.com 
 
+## Teaching
+
+- [ECE 586 - Vector Space Methods with Applications](http://pfister.ee.duke.edu/courses/ece586/), for graduate students, Fall 2021.
+- ECE 684 - Natural Language Processing, for graduate students, Fall 2022.
+
 ## Videos
 
 [KDD 2023 - Neural Insights for Digital Marketing Content Design
 ](https://www.youtube.com/watch?v=c56n878Q6Y8&t=18s)
+
+## Reviewer Service
+- EMNLP 2023
+
+
 
 
 
