@@ -14,13 +14,13 @@ My name is Fanjie Kong, a fourth-year Ph.D. candidate in the Electrical and Comp
 
 ## Recent Papers
 1. Mitigating Test-Time Bias for Fair Image Retrieval [[PDF]](https://arxiv.org/pdf/2305.19329.pdf)  <br /> **Fanjie Kong**, Shuai Yuan, Weituo Hao, Ricardo Henao  <br /> arXiv preprint arXiv:2305.19329 (arXiv 2023)
-2. Neural Insights for Digital Marketing Content Design [[PDF]](https://arxiv.org/pdf/2302.01416.pdf)  <br /> **Fanjie Kong**, Yuan Li, Houssam Nassif, Tanner Fiez, Ricardo Henao, Shreya Chakrabarti <br /> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
+2. Neural Insights for Digital Marketing Content Design [[PDF]](https://arxiv.org/pdf/2302.01416.pdf)  <br /> **Fanjie Kong**, Yuan Li, Houssam Nassif, Tanner Fiez, Ricardo Henao, Shreya Chakrabarti <br /> ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
 3. Efficient Classification of Very Large Images with Tiny Objects [[PDF]](https://arxiv.org/pdf/2302.01416.pdf)  <br /> **Fanjie Kong**, Ricardo Henao
- <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+ <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2022.
 4. Physics-enhanced machine learning for virtual fluorescence microscopy [[PDF]](https://openaccess.thecvf.com/content/ICCV2021/papers/Cooke_Physics-Enhanced_Machine_Learning_for_Virtual_Fluorescence_Microscopy_ICCV_2021_paper.pdf)  <br /> Colin L Cooke, **Fanjie Kong** , Amey Chaware, Kevin C Zhou, Kanghyun Kim, Rong Xu, D Michael Ando, Samuel J Yang, Pavan Chandra Konda, Roarke Horstmeyer
- <br /> IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
+ <br /> IEEE/CVF International Conference on Computer Vision **(ICCV)**, 2021.
 5. The Synthinel-1 dataset: A collection of high resolution synthetic overhead imagery for building segmentation [[PDF]](https://openaccess.thecvf.com/content_WACV_2020/papers/Kong_The_Synthinel-1_dataset_a_collection_of_high_resolution_synthetic_overhead_WACV_2020_paper.pdf)  <br /> **Fanjie Kong**, Bohao Huang, Kyle Bradbury, Jordan Malof
- <br /> IEEE/CVF winter conference on applications of computer vision (WACV), 2020.
+ <br /> IEEE/CVF winter conference on applications of computer vision **(WACV)**, 2020.
 
 ## Industrial Experience
 
