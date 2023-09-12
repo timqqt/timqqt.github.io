@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fanjie Kong's personal website"
+title                    : "Fanjie Kong's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Fanjie Kong"
   avatar           : "profile.png"
-  bio              : "under construction"
+  bio              : "Ph.D. Candidate
+                    Department of Electrical and Computer Engineering
+                    Duke University"
   location         : "Durham, NC USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
