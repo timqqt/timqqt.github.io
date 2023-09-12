@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Fanjie Kong"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate
-                    Department of Electrical and Computer Engineering
+  bio              : "Ph.D. Candidate <br />
+                    Department of Electrical and Computer Engineering <br />
                     Duke University"
   location         : "Durham, NC USA"
   employer         :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/timqqt"
+  github           : "timqqt"
   google_plus      :
   keybase          :
   instagram        :
@@ -199,7 +199,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -217,7 +217,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -226,7 +226,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -235,7 +235,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
@@ -244,7 +244,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS
