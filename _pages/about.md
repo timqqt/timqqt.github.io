@@ -27,7 +27,7 @@ My name is Fanjie Kong, a fourth-year Ph.D. candidate in the Electrical and Comp
 - Applied Scientist Intern at Amazon AWS AI Lab
 - Applied Scientist Intern at Amazon.com 
 
-## Teaching
+## Teaching Assistant
 
 - [ECE 586 - Vector Space Methods with Applications](http://pfister.ee.duke.edu/courses/ece586/), for graduate students, Fall 2021.
 - ECE 684 - Natural Language Processing, for graduate students, Fall 2022.
