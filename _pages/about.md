@@ -37,6 +37,9 @@ My name is Fanjie Kong, a fourth-year Ph.D. candidate in the Electrical and Comp
 [KDD 2023 - Neural Insights for Digital Marketing Content Design
 ](https://www.youtube.com/watch?v=c56n878Q6Y8&t=18s)
 
+[NeurIPS 2023 - Mitigating Test-Time Bias for Fair Image Retrieval
+](https://nips.cc/virtual/2023/poster/71886)
+
 ## Reviewer Service
 - EMNLP 2023
 
