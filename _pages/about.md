@@ -13,7 +13,7 @@ My name is Fanjie Kong, a fourth-year Ph.D. candidate in the Electrical and Comp
 <span style="color:red">With an anticipated graduation in 2024, I am actively seeking opportunities in industry roles, such as scientist positions.</span>
 
 ## Recent Papers
-1. Hyperbolic Learning with Synthetic Captions for Open-World Detection <br /> **Fanjie Kong**, Yanbei Chen, Jiarui Cai, Davide Modolo <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2024
+1. Hyperbolic Learning with Synthetic Captions for Open-World Detection [[PDF]](https://arxiv.org/pdf/2404.05016.pdf) <br /> **Fanjie Kong**, Yanbei Chen, Jiarui Cai, Davide Modolo <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2024
 2. Mitigating Test-Time Bias for Fair Image Retrieval [[PDF]](https://arxiv.org/pdf/2305.19329.pdf)  <br /> **Fanjie Kong**, Shuai Yuan, Weituo Hao, Ricardo Henao  <br /> Advances in Neural Information Processing Systems **(NeurIPS)**, 2023
 3. Neural Insights for Digital Marketing Content Design [[PDF]](https://arxiv.org/pdf/2302.01416.pdf)  <br /> **Fanjie Kong**, Yuan Li, Houssam Nassif, Tanner Fiez, Ricardo Henao, Shreya Chakrabarti <br /> ACM SIGKDD Conference on Knowledge Discovery and Data Mining **(KDD)**, 2023.
 4. Efficient Classification of Very Large Images with Tiny Objects [[PDF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Kong_Efficient_Classification_of_Very_Large_Images_With_Tiny_Objects_CVPR_2022_paper.pdf)  <br /> **Fanjie Kong**, Ricardo Henao
