@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fanjie Kong, a fourth-year Ph.D. candidate in the Electrical and Computer Engineering(ECE) Department at Duke University, working with [Prof. Ricardo Henao](https://rhenaog.github.io/). My current research mainly focuses on open-vocabulary object detection, efficient vision models and Fairness in AI. For additional details regarding my academic and professional experiences, please refer to my [CV](../files/Fanjie Kong-CV-2024Spring3.pdf).
-
-<span style="color:red">With an anticipated graduation in 2024, I am actively seeking opportunities in industry roles, such as scientist positions.</span>
+My name is Fanjie Kong. I received my Ph.D. in Computer Engineering from the Electrical and Computer Engineering(ECE) Department at Duke University, supervised by [Prof. Ricardo Henao](https://rhenaog.github.io/). My current research mainly focuses on open-vocabulary object detection, efficient vision models and Fairness in AI. For additional details regarding my academic and professional experiences, please refer to my [CV](../files/Fanjie Kong-CV-2024Spring3.pdf).
 
 ## Recent Papers
 1. Hyperbolic Learning with Synthetic Captions for Open-World Detection [[PDF]](https://arxiv.org/pdf/2404.05016.pdf) <br /> **Fanjie Kong**, Yanbei Chen, Jiarui Cai, Davide Modolo <br /> IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)**, 2024
