@@ -40,7 +40,8 @@ My name is Fanjie Kong. I received my Ph.D. degree from the Electrical and Compu
 ](https://nips.cc/virtual/2023/poster/71886)
 
 ## Reviewer Service
-- EMNLP 2023, ICLR 2024, CVPR 2024
+- EMNLP 2023, CVPR 2023
+- ICLR 2024, CVPR 2024, ECCV 2024, NeurIPS 2024
 - TPAMI
 
 
